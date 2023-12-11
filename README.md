@@ -1,4 +1,4 @@
-# ChainlinkHackathonFall2023
+# Chainlink Hackathon Fall 2023 (BambooBets - Space Trail Game)
 
 Chainlink VRF Subscription (Matic Testnet (Mumbai) Link:
 
